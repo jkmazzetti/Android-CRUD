@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Customer Service</string>
+    <string name="hint_CustomerRegistration">Customer Registration</string>
+    <string name="hint_CustomerConsult">Search Customer</string>
+    <string name="hint_CustomerName">Name</string>
+    <string name="hint_CustomerLastname">Lastname</string>
+    <string name="hint_CustomerBirthday">yyyy-mm-dd</string>
+    <string name="hint_CustomerNIN">NIN</string>
+    <string name="hint_CustomerAddress">Address</string>
+    <string name="hint_CustomerCity">City</string>
+    <string name="hint_CustomerEmail">E-mail</string>
+    <string name="hint_CustomerPhone">Phone</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="delete">delete</string>
+    <string name="update">Update</string>
+
+
+</resources>
